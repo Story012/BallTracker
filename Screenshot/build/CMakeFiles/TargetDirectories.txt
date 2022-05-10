@@ -1,0 +1,3 @@
+/home/sebas/eml4860/build/CMakeFiles/rebuild_cache.dir
+/home/sebas/eml4860/build/CMakeFiles/edit_cache.dir
+/home/sebas/eml4860/build/CMakeFiles/capture_image.dir
