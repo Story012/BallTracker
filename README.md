@@ -9,4 +9,5 @@ For screenshot images, rather than live camera feeds, modify the file to read fr
 ```
 image_path = r'/home/usr/Screenshot/image2.png'
 directory = r'/home/usr/Screenshot/build
+img = cv2.imread(image_path)
 ```
