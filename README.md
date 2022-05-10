@@ -6,7 +6,7 @@ To run the script, open roscore in a terminal and change device to the appropria
 
 For screenshot images, rather than live camera feeds, modify the file to read from file:
 
-'''
+```
 image_path = r'/home/usr/Screenshot/image2.png'
 directory = r'/home/usr/Screenshot/build
-'''
+```
